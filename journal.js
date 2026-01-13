@@ -13,3 +13,8 @@ function calcAge(age){
     aged = age + 20
     return "In 20 years, you will be " + aged + "years old";
 }
+
+// Get a user's favorite color
+function fetchColor(color) {
+    return "Your favorite color is " + color + "!";
+}
