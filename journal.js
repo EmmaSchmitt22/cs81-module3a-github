@@ -18,3 +18,8 @@ function calcAge(age){
 function fetchColor(color) {
     return "Your favorite color is " + color + "!";
 }
+
+// Closing message
+function goodbye(name) {
+    return "goodbye, " + name + ".";
+}
